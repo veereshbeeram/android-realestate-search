@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSCI 571 - Veeresh Beeram</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="empty_string"></string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="app_id">608019205977013</string>
+    
+    
+    <string name="address_form_label">Address*:</string>
+    <string name="address_field_hint">Street Address</string>
+    <string name="city_form_label">City*:</string>
+    <string name="city_field_hint">City</string>
+    <string name="state_form_label">State*:</string>
+    <string name="state_field_hint">Choose State</string>
+    <string name="search_button_text">Search</string>
+    <string name="sample_error">This field is required</string>
+    <string name="search_act_header">Search Your Property Here</string>
+    <string name="no_match">No exact match found &#8212; Verify that the given
+		address is correct</string>
+    
+    
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">&#160; &#160;Next &#160; &#160;</string>
+    <string name="zillow_footer_1">© Zillow Inc., 2006&#8211;2014</string>
+    <string name="zillow_footer_2"> Use is subject to Terms of Use</string>
+	<string name="zillow_footer_3">What\'s a Zestimate?</string>
+	
+    <string name="more_on_zillow">See more details on Zillow:</string>
+    <string name="zillow_image_des">Zillow.com Logo</string>
+
+    <string-array name="state_entries">
+        <item>Choose State</item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+
+    <string name="title_activity_zillow_results">Results From Zillow</string>
+
+</resources>
